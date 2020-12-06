@@ -1,6 +1,5 @@
 # ESP32 CAM BOARD AND DHT 11 SENSOR
 
-<img src="D:/IoT&ML/esp32 cam module/dht11/DHT-11.jpg" style="zoom:50%;" />![ESP32_CAM](D:/IoT&ML/esp32 cam module/dht11/ESP32_CAM.jpg)<img src="D:/IoT&ML/esp32 cam module/dht11/DHT-11.jpg" style="zoom:50%;" />![ESP32_CAM](D:/IoT&ML/esp32 cam module/dht11/ESP32_CAM.jpg)
 
 
 
@@ -44,11 +43,7 @@
 
 5)You can see the IP address of ESP32 CAM Board.
 
-<img src="D:\IoT&ML\esp32 cam module\dht11\serial monitor.jpeg" style="zoom:50%;" />
-
 6) Copy that IP address and paste it in the web browser.
 
-7) You will get the output on the web browser...
-
-<img src="D:\IoT&ML\esp32 cam module\dht11\output.jpeg" alt="output" style="zoom:50%;" />
+7) You will get the temperature and humidity output on the web browser.
 
