@@ -1,6 +1,6 @@
 # ESP32 CAM BOARD AND DHT 11 SENSOR
 
-<img src="D:\IoT&ML\esp32 cam module\dht11\DHT-11.jpg" style="zoom:50%;" />![ESP32_CAM](D:\IoT&ML\esp32 cam module\dht11\ESP32_CAM.jpg)<img src="D:\IoT&ML\esp32 cam module\dht11\DHT-11.jpg" style="zoom:50%;" />![ESP32_CAM](D:\IoT&ML\esp32 cam module\dht11\ESP32_CAM.jpg)
+<img src="D:/IoT&ML/esp32 cam module/dht11/DHT-11.jpg" style="zoom:50%;" />![ESP32_CAM](D:/IoT&ML/esp32 cam module/dht11/ESP32_CAM.jpg)<img src="D:/IoT&ML/esp32 cam module/dht11/DHT-11.jpg" style="zoom:50%;" />![ESP32_CAM](D:/IoT&ML/esp32 cam module/dht11/ESP32_CAM.jpg)
 
 
 
