@@ -3,11 +3,8 @@
 #include <Wire.h>
 #include "DHT.h"
 
-// Uncomment one of the lines below for whatever DHT sensor type you're using!
+
 #define DHTTYPE DHT11 // DHT 11
-//#define DHTTYPE DHT21 // DHT 21 (AM2301)
-//#define DHTTYPE DHT22 // DHT 22 (AM2302), AM2321
-//DHT Sensor;
 uint8_t DHTPin = 4; 
 DHT dht(DHTPin, DHTTYPE); 
 float Temperature;
@@ -60,7 +57,6 @@ client.println("<head><meta name=\"viewport\" content=\"width=device-width, init
 client.println("<link rel=\"icon\" href=\"data:,\">");
 client.println("</style></head><body><h1>ESP32 Web Server Reading sensor values</h1>");
 client.println("<h2>DHT11</h2>");
-//client.println("<h2>Microcontrollerslab.com</h2>");
 client.println("<table><tr><th>MEASUREMENT</th><th>VALUE</th></tr>");
 client.println("<tr><td>Temp. Celsius</td><td><span class=\"sensor\">");
 client.println(dht.readTemperature());
