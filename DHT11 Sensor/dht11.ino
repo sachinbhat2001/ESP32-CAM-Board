@@ -10,8 +10,8 @@ DHT dht(DHTPin, DHTTYPE);
 float Temperature;
 float Humidity;
 
-const char* ssid = "RGK"; 
-const char* password = "firestorm";
+const char* ssid = "name"; 
+const char* password = "password";
 
 WiFiServer server(80);
 
